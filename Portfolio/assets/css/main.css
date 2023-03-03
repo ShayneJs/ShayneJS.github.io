@@ -139,7 +139,7 @@ span.ds-department{ color: #373737; font-weight: 500; font-size: 18px; padding-b
 
 	/* Read More/Less font size */
 	summary.ds-detail-btn {text-align: center; font-size: 14px;}
-	.ds-details-txt {color: #373737; font-size: 14px; line-height: 30px; font-weight: 300; margin-bottom: 60px;}
+	.ds-details-txt {color: #373737; font-size: 14px; line-height: 30px; margin-bottom: 60px;}
 	/* Read More/Less font size */
 
 	.ds-numbervalulist{ margin-top: 20px; }
