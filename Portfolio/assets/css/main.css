@@ -61,7 +61,7 @@ img.ds-banner-img{padding-top: 10px;}
 /*-----------------------------------------------------------------
   3. >>> About Style
 ----------------------------------------------------------------*/
-.ds-about-section{ padding-top: 60px; padding-bottom: 120px; }
+.ds-about-section{ padding-top: 60px; padding-bottom: 0px; }
 .ds-heading{ display: inline-block; font-weight: 700; color: #000; text-transform: uppercase; letter-spacing: 1px; font-size: 16px; border-bottom: 3px solid #F26464; padding-bottom: 7px; margin-bottom: 23px; }
 .ds-about-section p{ color: #373737; font-size: 24px; line-height: 40px; font-weight: 300; margin-bottom: -60px; }
 
@@ -69,8 +69,8 @@ img.ds-banner-img{padding-top: 10px;}
 .ds-button:hover{ background-color:#F26464 ; color: #FFF; }
 .ds-arrow-button i{ display: inline-block; vertical-align: middle; }
 
-summary.ds-detail-btn {text-align: left; font-size:}
-.ds-details-txt {color: #373737; font-size: 20px; line-height: 35px; font-weight: 300; margin-top: 120px; margin-bottom: 60px;}
+summary.ds-detail-btn {text-align: center; font-size: 14px; position: relative; top: -35px; right: 25px;}
+.ds-details-txt {color: #373737; font-size: 20px; line-height: 35px; font-weight: 300; margin-top: 120px; margin-bottom: 60px; position: relative; top: -60px;}
 
 /*-----------------------------------------------------------------
   4. >>> Skills Style
@@ -140,15 +140,15 @@ span.ds-department{ color: #373737; font-weight: 500; font-size: 18px; padding-b
 	.ds-banner section h1,.ds-work-det-title{ font-size: 30px; line-height: 40px; }
 
 	/* Read More/Less font size */
-	summary.ds-detail-btn {text-align: center; font-size: 14px;}
-	.ds-details-txt {color: #373737; font-size: 14px; line-height: 30px; margin-bottom: 60px;}
+	summary.ds-detail-btn {text-align: left; font-size: 14px; position: relative; top: -30px; right: 0px;}
+	.ds-details-txt {color: #373737; font-size: 14px; line-height: 30px; margin-bottom: 0px; position: relative; top: -60px;}
 	/* Read More/Less font size */
 
 	.ds-numbervalulist{ margin-top: 20px; }
 	.ds-numbervalulist li{ margin-right: 30px; }
 	.ds-numbervalulist strong{ font-size: 30px; }
 	.ds-numbervalulist span{ font-size: 14px; }
-	.ds-about-section{ padding-bottom: 60px; }
+	.ds-about-section{ margin-bottom: -200px; padding-bottom: 130px;} /* changed from 60 to 30 */
 	.ds-about-section p,.ds-work-content-sec p,.ds-work-content-sec li{ font-size: 15px; line-height: 30px;margin-bottom: 30px; }
 	.ds-skills-list li{ margin-right: 10px; margin-bottom: 10px; font-size: 14px; }
 	.ds-skills-section .col-12,.ds-experience-list .col-12{ margin-bottom: 40px; }
