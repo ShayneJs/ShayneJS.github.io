@@ -136,6 +136,12 @@ span.ds-department{ color: #373737; font-weight: 500; font-size: 18px; padding-b
 	.ds-banner section{ padding-left: 0;padding-right: 0; }
 	.ds-banner section h1 span{ padding-bottom: 0; }
 	.ds-banner section h1,.ds-work-det-title{ font-size: 30px; line-height: 40px; }
+
+	/* Read More/Less font size */
+	summary.ds-detail-btn {text-align: center; font-size: 14px;}
+	.ds-details-txt {color: #373737; font-size: 14px; line-height: 30px; font-weight: 300; margin-bottom: 60px;}
+	/* Read More/Less font size */
+
 	.ds-numbervalulist{ margin-top: 20px; }
 	.ds-numbervalulist li{ margin-right: 30px; }
 	.ds-numbervalulist strong{ font-size: 30px; }
