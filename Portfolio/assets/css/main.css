@@ -63,14 +63,14 @@ img.ds-banner-img{padding-top: 10px;}
 ----------------------------------------------------------------*/
 .ds-about-section{ padding-top: 60px; padding-bottom: 120px; }
 .ds-heading{ display: inline-block; font-weight: 700; color: #000; text-transform: uppercase; letter-spacing: 1px; font-size: 16px; border-bottom: 3px solid #F26464; padding-bottom: 7px; margin-bottom: 23px; }
-.ds-about-section p{ color: #373737; font-size: 24px; line-height: 40px; font-weight: 300; margin-bottom: 10px; }
+.ds-about-section p{ color: #373737; font-size: 24px; line-height: 40px; font-weight: 300; margin-bottom: -60px; }
 
-.ds-button{ display: inline-block; text-transform: uppercase;font-size: 12px;line-height: 13px;font-weight: 600;letter-spacing: 3px; color:#F26464; padding:17px 30px;  border: 2px solid #F26464;border-radius: 60px; }
+.ds-button{ display: inline-block; text-transform: uppercase;font-size: 12px;line-height: 13px;font-weight: 600;letter-spacing: 3px; color:#F26464; padding:17px 30px;  border: 2px solid #F26464;border-radius: 60px; margin-top: 15px;}
 .ds-button:hover{ background-color:#F26464 ; color: #FFF; }
 .ds-arrow-button i{ display: inline-block; vertical-align: middle; }
 
-summary.ds-detail-btn {text-align: right; font-size: 14px; position: relative; top: -21px;}
-.ds-details-txt {color: #373737; font-size: 20px; line-height: 35px; font-weight: 300; margin-bottom: 60px; position: relative; top: -30px;}
+summary.ds-detail-btn {text-align: left; font-size:}
+.ds-details-txt {color: #373737; font-size: 20px; line-height: 35px; font-weight: 300; margin-top: 120px; margin-bottom: 60px;}
 
 /*-----------------------------------------------------------------
   4. >>> Skills Style
@@ -120,7 +120,7 @@ span.ds-department{ color: #373737; font-weight: 500; font-size: 18px; padding-b
 .ds-footer section { padding-bottom: 97px; }
 .ds-footer section span{ color: rgba(255,255,255,0.5); text-transform: uppercase; font-weight: 700; font-size: 16px; letter-spacing: 1px; display: block; padding-bottom: 20px; }
 .ds-footer section  h4{ color: #FFF; font-size: 48px; font-weight: 700; }
-.ds-footer section p{ letter-spacing: 1.13px; color: #FFF; font-size: 18px; margin-bottom: 40px; }
+.ds-footer section p{ letter-spacing: 1.13px; color: #FFF; font-size: 18px; margin-bottom: 20px; }
 .ds-copyright{ color: rgba(255,255,255,0.5); letter-spacing: 1px; font-size: 16px; }
 .ds-copyright a{color: rgba(255,255,255,0.5);}
 .ds-copyright a:hover{ color: #F26464; }
