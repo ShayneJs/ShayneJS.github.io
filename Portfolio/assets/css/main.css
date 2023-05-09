@@ -22,7 +22,7 @@ body {
   background-color: #dcdcdc;
   font-weight: 400;
   height: 100%;
-  width: 75%;
+  width: 90%;
   margin-left: auto;
   margin-right: auto;
   font-style: normal;
@@ -112,7 +112,7 @@ img {
 .ds-header {
   position: fixed;
   top: 0;
-  width: 75%;
+  width: 90%;
   z-index: 5;
   background-color: #000000;
   padding: 70px 0;
